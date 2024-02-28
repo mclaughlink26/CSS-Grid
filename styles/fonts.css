@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Open Sans Semibold';
+    src: url('fonts/fonts_stylesheet/OpenSans-SemiBold.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/OpenSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Medium';
+    src: url('fonts/fonts_stylesheet/OpenSans-Medium.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/OpenSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/fonts_stylesheet/OpenSans-Regular.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Extra Bold';
+    src: url('fonts/fonts_stylesheet/OpenSans-ExtraBold.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/OpenSans-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Extra Light';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-ExtraLight.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Light';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-Light.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url('fonts/fonts_stylesheet/OpenSans-Light.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/OpenSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Medium';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-Medium.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url('fonts/fonts_stylesheet/OpenSans-Bold.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/OpenSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Bold';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-Bold.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Semibold';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-SemiBold.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Extra Bold';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-ExtraBold.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-Regular.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Thin';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-Thin.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Black';
+    src: url('fonts/fonts_stylesheet/RobotoSlab-Black.woff2') format('woff2'),
+        url('fonts/fonts_stylesheet/RobotoSlab-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
